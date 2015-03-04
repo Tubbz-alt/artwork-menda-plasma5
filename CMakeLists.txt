@@ -33,5 +33,3 @@ if(EXISTS ${CMAKE_SOURCE_DIR}/po AND IS_DIRECTORY ${CMAKE_SOURCE_DIR}/po)
 endif()
 
 feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)
-message(" * Orion theme for GTK 2 and 3 will be set by gtkbreeze kconf_update binary,"
-        " please install or add a runtime dependency to packages. https://github.com/shimmerproject/Orion")
