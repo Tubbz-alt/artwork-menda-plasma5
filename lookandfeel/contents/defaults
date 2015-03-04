@@ -8,7 +8,7 @@ ColorScheme=Menda
 Theme=Menda-Circle
 
 [plasmarc][Theme]
-name=default
+name=Menda
 
 [kcminputrc][Mouse]
 cursorTheme=Menda-Cursor
